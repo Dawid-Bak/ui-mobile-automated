@@ -127,7 +127,7 @@ Save the document and run in terminal:
 
 Download sdk-tools from:
 
-        https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip
+	https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip
 
 Create folder ‘android-sdk’ in directory of your choice. 
 
