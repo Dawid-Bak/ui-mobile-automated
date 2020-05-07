@@ -127,19 +127,20 @@ Save the document and run in terminal:
 
 Download sdk-tools from:
 
-https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip
+        https://dl.google.com/android/repository/sdk-tools-linux-4333796.zip
 
 Create folder ‘android-sdk’ in directory of your choice. 
 
 Copy ‘tools’ folder from downloaded package into the newly created ‘android-sdk’ folder.
 
 Download platform-tools from:
+	
 	https://developer.android.com/studio/releases/platform-tools
 
 Copy ‘tools’ folder from downloaded package into the newly created ‘android-sdk’ folder.
 
 
-Configure environment variables:
+**Configure environment variables:**
 
 Run in terminal:
 
