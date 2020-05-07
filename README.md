@@ -207,7 +207,7 @@ Enjoy
 
 
 
-Resources:
+Sources:
 
   http://appium.io/docs/en/about-appium/getting-started/
   
